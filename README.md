@@ -55,7 +55,7 @@
 | 🎓 ​基于Qwen3-8B与LightLLM高效复杂语义理解应用 | ​Qwen3-8B凭借80亿参数和128K长上下文，兼具“快思考”与“慢思考”能力，配合高效推理框架LightLLM，可实现高并发、低延迟的稳定服务。二者结合，不仅显著提升生成质量与响应效率，更适用于智能客服、知识问答、内容生成等企业级场景，成为落地大模型应用的高效实用方案。 | [➡ 阅读教程](https://docs.llamafactory.online/docs/documents/best-practice/qwen3-8B) |
 | 👩‍⚕️ 基于CareGPT医疗目标的Qwen3-8B模型微调之旅 | CareGPT是一款针对医疗健康领域优化的开源大语言模型项目，核心通过领域适应训练提升模型在医疗场景的专业性与可靠性，助力医疗人工智能技术普及应用。本文档指导您如何在LLaMA Factory Online平台实现基于CareGPT医疗目标的Qwen3-8B模型微调实践。 | [➡ 阅读教程](https://docs.llamafactory.online/docs/documents/best-practice/caregpt) |
 | 🔬 构建基于Qwen3-8B的沉浸式苏东坡角色扮演大模型 | 当代文化内容爆发式增长的背景下，角色扮演技术不断创新升级。基于Qwen3-8B的生成式AI技术，使用户能够突破时空限制，与苏东坡进行深度对话和个性化交流，为文化IP运营、沉浸式教育、历史体验及心理陪伴等领域创造新价值。 | [➡ 阅读教程](https://docs.llamafactory.online/docs/documents/best-practice/Dongpo) |
-| 🎁 GPU 福利季活动 | 新用户注册有礼、邀新返现、充值福利 | [➡ 了解活动](https://llamafactory.online/events) |
+| 🔎 基于Qwen3-Omni-30B-A3B-Instruct的私人导览专家 | 让Qwen3-Omni 精准适配观展场景，打造专属 “智能博物官”，从识别青铜器铭文的视觉问答，到解析瓷器釉色工艺的语音追问，再到跨朝代审美对比的知识延伸，将通用智能转化为专业导览能力。 | [➡ 阅读教程](https://docs.llamafactory.online/docs/documents/best-practice/bowuguan) |
 
 ---
 
