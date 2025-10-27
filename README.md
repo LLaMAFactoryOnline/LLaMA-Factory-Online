@@ -41,13 +41,11 @@
 
 | 🌐 类型 | 📦 数据集示例 | 🔗 下载入口 |
 |:--|:--|:--|
-| 通用指令 | Alpaca-GPT4 | [🔗 Hugging Face](https://huggingface.co/datasets/tatsu-lab/alpaca) |
+| 自动驾驶多模态图像理解数据集 | QA_from_CoVLA_zh | [🔗 Hugging Face](https://huggingface.co/datasets/AlayaNeW/QA_from_CoVLA_zh) |
 | 对话/问答 | ShareGPT | [🔗 Hugging Face](https://huggingface.co/datasets/ShareGPT) |
 | 中文指令 | Firefly-Mix-1.1M | [🔗 Hugging Face](https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M) |
 | 专业领域 | Finance-GPT | [🔗 Hugging Face](https://huggingface.co/datasets/hello-simpleai/Finance-GPT) |
 | 医疗问答 | Med-Dialog-CN | [🔗 Hugging Face](https://huggingface.co/datasets/medicalai/MedDialog) |
-
-📎 更多推荐数据集请访问 👉 [**LFO 官方数据集页**](https://llamafactory.online/datasets)
 
 ---
 
@@ -62,18 +60,17 @@
 | 🔬 构建基于Qwen3-8B的沉浸式苏东坡角色扮演大模型 | 当代文化内容爆发式增长的背景下，角色扮演技术不断创新升级。基于Qwen3-8B的生成式AI技术，使用户能够突破时空限制，与苏东坡进行深度对话和个性化交流，为文化IP运营、沉浸式教育、历史体验及心理陪伴等领域创造新价值。 | [➡ 阅读教程](https://docs.llamafactory.online/docs/documents/best-practice/Dongpo) |
 | 🎁 GPU 福利季活动 | 新用户注册有礼、邀新返现、充值福利 | [➡ 了解活动](https://llamafactory.online/events) |
 
-💡 **提示**：所有案例均可一键复制至平台运行，无需额外环境配置。
-
 ---
 
 ## 🤝 加入我们
 
 📢 **官方网站**  
-👉 [https://llamafactory.online](https://llamafactory.online)
+👉 [https://llamafactory.online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)
 
-💬 **社区与交流群**  
-- 微信群 / Discord：扫码进群领取代金券与微调资料包  
-- Bilibili / 掘金 / 知乎官方号：`@LLaMA-Factory Online`
+🏠 **社区与交流群**  
+- 💬 微信：扫描下方二维码领取代金券与微调资料包  
+- 📢 微信公众号: 大模型微调online，期待您的关注
+- 📚 CSDN: 
 
 📮 **商务合作与校园大使计划**  
 请邮件至：**contact@llamafactory.online**
