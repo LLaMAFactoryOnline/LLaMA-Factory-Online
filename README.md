@@ -1,7 +1,7 @@
 # LLaMA-Factory-Online
 
 <p align="center">
-  <img src=".assets/LLaMA_Factory_Online.png" width="100%" alt="LLaMA-Factory Online Banner">
+  <img src="assets/LLaMA_Factory_Online.png" width="100%" alt="LLaMA-Factory Online Banner">
 </p>
 
 <h1 align="center">🦙 LLaMA-Factory Online</h1>
@@ -89,13 +89,3 @@
 本页展示的数据与教程仅用于学术与非商业用途。
 
 ---
-
-### 🧷 仓库结构（轻量版）
-
-```text
-llamafactory-online/
-│
-├─ README.md          ← 主页面（当前文件）
-├─ LICENSE
-└─ assets/
-    └─ banner.png     ← 可替换项目横幅图（选填）
