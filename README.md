@@ -1,7 +1,7 @@
 # LLaMA-Factory-Online
 
 <p align="center">
-  <img src="LLaMA-Factory-Online/assets/LLaMA_Factory_Online.png" width="100%" alt="LLaMA-Factory Online Banner">
+  <img src="./assets/LLaMA_Factory_Online.png" width="100%" alt="LLaMA-Factory Online Banner">
 </p>
 
 <h1 align="center">🦙 LLaMA-Factory Online</h1>
