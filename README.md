@@ -68,7 +68,10 @@
 👉 [https://llamafactory.online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)
 
 🏠 **社区与交流群**  
-- 💬 微信：扫描下方二维码领取代金券与微调资料包  
+- 💬 微信：扫描下方二维码领取代金券与微调资料包
+<p align="center">
+  <img src="./assets/qiweiqcode.png" width="100%" >
+</p>  
 - 📢 微信公众号: 大模型微调online，期待您的关注
 - 📚 CSDN: 
 
