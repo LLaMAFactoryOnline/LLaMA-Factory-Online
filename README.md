@@ -41,11 +41,8 @@
 
 | 🌐 类型 | 📦 数据集示例 | 🔗 下载入口 |
 |:--|:--|:--|
-| 自动驾驶多模态图像理解数据集 | QA_from_CoVLA_zh | [🔗 Hugging Face](https://huggingface.co/datasets/AlayaNeW/QA_from_CoVLA_zh) |
-| 对话/问答 | ShareGPT | [🔗 Hugging Face](https://huggingface.co/datasets/ShareGPT) |
-| 中文指令 | Firefly-Mix-1.1M | [🔗 Hugging Face](https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M) |
-| 专业领域 | Finance-GPT | [🔗 Hugging Face](https://huggingface.co/datasets/hello-simpleai/Finance-GPT) |
-| 医疗问答 | Med-Dialog-CN | [🔗 Hugging Face](https://huggingface.co/datasets/medicalai/MedDialog) |
+| 自动驾驶图像理解数据集 | QA_from_CoVLA_zh | [🔗 Hugging Face](https://huggingface.co/datasets/AlayaNeW/QA_from_CoVLA_zh) |
+| 中文医疗在线问诊数据集 | ChatMed | [🔗 Github](https://github.com/michael-wzhu/ChatMed) |
 
 ---
 
@@ -68,15 +65,15 @@
 👉 [https://llamafactory.online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)
 
 🏠 **社区与交流群**  
-- 💬 微信：扫描下方二维码领取代金券与微调资料包
+💬 微信：扫描下方二维码领取代金券与微调资料包
 <p align="center">
-  <img src="./assets/qiweiqcode.png" width="100%" >
+  <img src=".github/assets/qiweiqcode.png" width="100%">
 </p>  
-- 📢 微信公众号: 大模型微调online，期待您的关注
-- 📚 CSDN: 
+📢 微信公众号: 大模型微调online，期待您的关注
+📚 [CSDN:](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
 
 📮 **商务合作与校园大使计划**  
-请邮件至：**contact@llamafactory.online**
+请邮件至：**@LLaMA-FactoryOnline@zetyun.com**
 
 > 🦙「让微调变得像写提示词一样简单。」
 
