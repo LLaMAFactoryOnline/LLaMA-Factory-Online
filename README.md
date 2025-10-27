@@ -65,24 +65,12 @@
 👉 [https://llamafactory.online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)
 
 🏠 **社区与交流群**  
-💬 微信：扫描下方二维码领取代金券与微调资料包
+💬 **微信**：扫描下方二维码领取代金券与微调资料包
 <p align="center">
   <img src="./assets/qcode.png" width="100%">
 </p>  
-📢 微信公众号: 大模型微调online，期待您的关注
+📢 **微信公众号**: 大模型微调online，期待您的关注
 📚 [CSDN:](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
 
 📮 **商务合作与校园大使计划**  
 请邮件至：**@LLaMA-FactoryOnline@zetyun.com**
-
-> 🦙「让微调变得像写提示词一样简单。」
-
----
-
-## 📜 许可协议
-
-本项目内容遵循 [MIT License](LICENSE)。  
-所有示例数据集版权归原作者所有。  
-本页展示的数据与教程仅用于学术与非商业用途。
-
----
