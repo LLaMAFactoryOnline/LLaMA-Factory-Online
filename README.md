@@ -59,7 +59,7 @@
 
 ---
 
-## 🤝 加入我们
+## 🤝 联系我们
 
 📢 **官方网站**  
 👉 [https://llamafactory.online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)
