@@ -71,9 +71,9 @@
 </p>  
 
 📢 **微信公众号**: 大模型微调online，期待您的关注
-<p> 
-📚 **[CSDN:](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
-</p>  
+
+📚 **CSDN**:[大模型微调online](https://blog.csdn.net/weixin_41851559?type=blog)
 
 📮 **商务合作与校园大使计划**  
+
 请邮件至：**@LLaMA-FactoryOnline@zetyun.com**
