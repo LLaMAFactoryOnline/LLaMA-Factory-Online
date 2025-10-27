@@ -69,8 +69,11 @@
 <p align="center">
   <img src="./assets/qcode.png" width="100%">
 </p>  
+
 📢 **微信公众号**: 大模型微调online，期待您的关注
-📚 [CSDN:](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
+<p> 
+📚 **[CSDN:](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
+</p>  
 
 📮 **商务合作与校园大使计划**  
 请邮件至：**@LLaMA-FactoryOnline@zetyun.com**
