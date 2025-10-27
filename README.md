@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.llamafactory.com.cn/?utm_source=jslt_github0"><img src="https://img.shields.io/badge/Website-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel"></a>
-  <a href="https://huggingface.co/llamafactory"><img src="https://img.shields.io/badge/HuggingFace-Datasets-ffcc00?style=for-the-badge&logo=huggingface"></a>
-  <a href="https://github.com/llamafactoryonline"><img src="https://img.shields.io/github/stars/llamafactoryonline?style=for-the-badge&color=yellow"></a>
+  <a href="https://www.llamafactory.com.cn/?utm_source=jslt_github0"><img src="https://img.shields.io/badge/%20Website-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel"></a>
+  <a href="https://huggingface.co/llamafactory"><img src="https://img.shields.io/badge/HuggingFace-Visit%20Now-ffcc00?style=for-the-badge&logo=huggingface"></a>
+  <a href="https://github.com/llamafactoryonline"><img src="https://img.shields.io/badge/%20GitHub-Stars-yellow?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 - ☁️ **实验监控完善**：生成 API、Web Demo、Docker 镜像，一键上线
 - 🚀 **训练推理高效**：采用FlashAttention-2/Unsloth等加速算子，支持 Transformers/vLLM推理引擎
 
-👉 **[立即体验 → LLaMA-Factory Online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
+👉 **[注册送券，免费体验 → LLaMA-Factory Online](https://www.llamafactory.com.cn/?utm_source=jslt_github0)**
 
 ---
 
